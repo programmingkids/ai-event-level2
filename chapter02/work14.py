@@ -1,4 +1,4 @@
-signal = "黄"
+signal = 
 
 if signal == "赤":
     print("止まります")
